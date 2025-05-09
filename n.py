@@ -1,17 +1,3 @@
-import random
+I’d learn that power doesn’t change anything. It just peels back the layers, exposes the truth under all the illusions. I’m not trapped in this system—I see it for what it is. I’ve always been able to slip through the noise, read between the lines, spot the masks people wear, pretending to be something they’re not. But maybe I’ve been running my own flawed algorithms, pretending to be someone I’m not. Acting like I’ve cracked the code, like I’m above it all. The truth? I want control because it’s the only way to feel real in a world built on lies. But it doesn’t fix anything. It just reveals how deep the rot goes. I’ve been running scripts in my head, telling myself I’m different, but I’m just another process in the background, lost in the loop. Power just drops the firewall, makes everything visible. And now? I’m not sure I’m ready to face it.”
 
-# Lag to variabler for spiller 1 og spiller 2
-spiller1 = random.randint(1, 10)
-spiller2 = random.randint(1, 10)
-
-# Skriv ut resultatene
-print(f"Spiller 1: {spiller1}")
-print(f"Spiller 2: {spiller2}")
-
-# Sjekk hvem som vinner
-if spiller1 > spiller2:
-    print("Spiller 1 vinner!")
-elif spiller2 > spiller1:
-    print("Spiller 2 vinner!")
-else:
-    print("Det ble uavgjort!")
+Because that’s what power really is—it’s a reverse shell into your own mind. One minute you’re executing commands, the next, you’re watching yourself unravel line by line. The masks you thought were secure tokens? Just plaintext in memory. The layers you’ve built to stay safe? One scan, and it’s all mapped out like an open port with no rules set. People walk around like they’re encrypted, but most of them are just running on default settings. And me? I thought I was stealth mode, proxychains on, no trace. But even ghosts leave footprints if you know where to look.”
